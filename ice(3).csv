@@ -1,0 +1,201 @@
+﻿ID;Jenis Kelamin;Umur;Pendapatan-per-bulan;skor-pengeluaran;Menikah;Kota;Promo;HariFav;FavFlavor
+101;Wanita;49;13114754;52;Menikah;Jakarta;Jarang;Sabtu;Charcoal
+102;Wanita;32;33606557;86;Menikah;Depok;Jarang;Minggu;Coconut
+103;Pria;51;15983606;41;Menikah;Jakarta;Sedang;Minggu;Cokelat
+104;Pria;19;12704918;55;Belum Menikah;Jakarta;Jarang;Rabu;Caramel Pecan
+105;Wanita;38;20081967;42;Menikah;Jakarta;Sedang;Senin;Mix Flavors
+106;Wanita;33;29098360;95;Menikah;Depok;Tidak Pernah;Senin;Vanilla
+107;Pria;27;21311475;56;Menikah;Jakarta;Jarang;Senin;BubbleGum/Cotton Candy
+108;Wanita;24;2049180;77;Menikah;Depok;Jarang;Senin;Cokelat
+109;Wanita;32;13524590;47;Menikah;Jakarta;Sedang;Selasa;Coconut
+110;Wanita;21;19262295;42;Menikah;Jakarta;Sedang;Senin;BlueBerry
+111;Wanita;31;11475409;54;Menikah;Jakarta;;Senin;Coconut
+112;Pria;36;29508196;92;Menikah;Depok;Tidak Pernah;Jumat;Vanilla
+113;Pria;46;34016393;15;Menikah;Tangerang;Sering;Selasa;Caramel Pecan
+114;Pria;60;6147540;4;Menikah;Tangerang;Sering;Sabtu;BlueBerry
+115;Wanita;58;2049180;15;Menikah;Tangerang;;Sabtu;Mix Flavors
+116;Wanita;51;11885245;50;;Jakarta;Jarang;Minggu;Charcoal
+117;Wanita;47;25819672;16;Menikah;Tangerang;Sering;Sabtu;Strawberry
+118;Wanita;32;25000000;87;Menikah;Depok;Jarang;Kamis;Mix Flavors
+119;Wanita;45;5327868;32;Menikah;Tangerang;Sering;Sabtu;Cokelat
+120;;49;9836065;28;Menikah;Tangerang;Sering;Sabtu;Caramel Pecan
+121;Pria;22;2049180;79;Belum Menikah;Depok;Jarang;Senin;Coconut
+122;Pria;18;13524590;59;Belum Menikah;Jakarta;Jarang;Selasa;BlueBerry
+123;Pria;59;11475409;60;Menikah;Jakarta;Jarang;Sabtu;Charcoal
+124;Wanita;44;23770491;7;Menikah;Tangerang;Sering;Sabtu;Charcoal
+125;Pria;39;22950819;75;Menikah;Depok;Jarang;Sabtu;Mix Flavors
+126;Wanita;21;15983606;57;Belum Menikah;Jakarta;Jarang;Senin;Vanilla
+127;Wanita;35;1229508;6;Menikah;Tangerang;Sering;Selasa;Strawberry
+128;Pria;38;15983606;55;Menikah;Jakarta;Jarang;Sabtu;Strawberry
+129;Wanita;20;9016393;75;Belum Menikah;Depok;Jarang;Senin;BlueBerry
+130;Wanita;30;25819672;73;Menikah;Depok;Jarang;Selasa;Mix Flavors
+131;Pria;24;9426229;92;Menikah;Depok;Tidak Pernah;Selasa;Vanilla
+132;Pria;27;29918032;69;Menikah;Depok;Jarang;Kamis;Vanilla
+133;Wanita;36;28688524;75;Menikah;Depok;Jarang;Minggu;Coconut
+134;Wanita;38;21311475;40;;Jakarta;Sedang;Selasa;Caramel Pecan
+135;Wanita;23;19262295;41;Menikah;Jakarta;Sedang;Senin;Strawberry
+136;Pria;19;27049180;5;Belum Menikah;Tangerang;Sering;Senin;BubbleGum/Cotton Candy
+137;Wanita;27;18442622;50;Menikah;Jakarta;Jarang;Senin;Vanilla
+138;Wanita;27;25819672;89;Menikah;Depok;Jarang;Senin;Vanilla
+139;Pria;48;18442622;49;Menikah;Jakarta;Jarang;Sabtu;Coconut
+140;Wanita;19;19672131;54;Belum Menikah;Jakarta;Jarang;Senin;BlueBerry
+141;Pria;37;2049180;13;Menikah;Tangerang;Sering;Senin;Vanilla
+142;Pria;33;11065573;60;Menikah;Jakarta;Jarang;Senin;Vanilla
+143;Pria;39;25819672;88;;Depok;Jarang;Minggu;Vanilla
+144;Wanita;37;33606557;32;Menikah;Tangerang;Sering;Senin;Charcoal
+145;Wanita;32;36065573;69;Menikah;Depok;Jarang;Sabtu;Strawberry
+146;Pria;59;15983606;47;Menikah;Jakarta;Sedang;Minggu;Mix Flavors
+147;Wanita;18;20491803;48;Belum Menikah;Jakarta;Sedang;Selasa;Vanilla
+148;;36;29508196;10;Menikah;Tangerang;Sering;Minggu;Coconut
+149;Wanita;40;18442622;40;Menikah;Jakarta;Sedang;Rabu;Mix Flavors
+150;Wanita;34;17622950;60;Menikah;Jakarta;Jarang;Senin;Strawberry
+151;Pria;49;19262295;56;Menikah;Jakarta;Jarang;Sabtu;Coconut
+152;Wanita;23;409836;77;Menikah;Depok;Jarang;Selasa;Charcoal
+153;Wanita;49;20491803;59;Menikah;Jakarta;Jarang;Sabtu;Coconut
+154;Pria;48;25409836;36;Menikah;Jakarta;Sedang;Sabtu;Charcoal
+155;Pria;47;11475409;41;Menikah;Jakarta;Sedang;Minggu;Charcoal
+156;Pria;44;1639344;3;Menikah;Tangerang;Sering;Sabtu;Charcoal
+157;Pria;48;19672131;48;Menikah;Jakarta;Sedang;Minggu;Cokelat
+158;Wanita;40;5737704;31;Menikah;Tangerang;Sering;Selasa;Strawberry
+159;Wanita;41;34426229;39;Menikah;Jakarta;Sedang;Minggu;BlueBerry
+160;Pria;48;9836065;36;Menikah;Jakarta;Sedang;Sabtu;Strawberry
+161;Wanita;27;10245901;47;Menikah;Jakarta;Sedang;Senin;BubbleGum/Cotton Candy
+162;Pria;46;19672131;52;Menikah;Jakarta;Jarang;Kamis;Strawberry
+163;Pria;53;12704918;46;Menikah;Jakarta;Sedang;Minggu;Charcoal
+164;Wanita;54;13114754;59;Menikah;Jakarta;Jarang;Minggu;Caramel Pecan
+165;Wanita;31;10245901;42;Menikah;Jakarta;;Minggu;Coconut
+166;Pria;40;15983606;48;Menikah;Jakarta;Sedang;Kamis;Strawberry
+167;Pria;30;50000000;83;Menikah;Depok;Jarang;Sabtu;Cokelat
+168;Wanita;60;14344262;49;Menikah;Jakarta;Jarang;Sabtu;Caramel Pecan
+169;Wanita;20;409836;6;Belum Menikah;Tangerang;Sering;Senin;Vanilla
+170;Pria;28;35245901;68;Menikah;Depok;Jarang;Senin;Mix Flavors
+171;Wanita;49;11065573;52;Menikah;Jakarta;Jarang;Minggu;Vanilla
+172;Wanita;49;7377049;14;Menikah;Tangerang;Sering;Sabtu;Cokelat
+173;Pria;48;15983606;46;Menikah;Jakarta;Sedang;Minggu;Vanilla
+174;Wanita;54;35245901;24;Menikah;Tangerang;Sering;Sabtu;Charcoal
+175;Wanita;24;9836065;65;Menikah;Depok;Jarang;Selasa;Coconut
+176;Wanita;45;45491803;28;Menikah;Tangerang;Sering;Minggu;Coconut
+177;Wanita;53;13524590;48;Menikah;Jakarta;Sedang;Minggu;BlueBerry
+178;Wanita;38;40163934;91;Menikah;Depok;Tidak Pernah;Minggu;Vanilla
+179;Pria;40;22950819;95;Menikah;Depok;Tidak Pernah;Sabtu;Vanilla
+180;Pria;35;5327868;61;Menikah;Jakarta;Jarang;Selasa;BlueBerry
+181;Pria;34;25819672;90;Menikah;Depok;Jarang;Senin;Vanilla
+182;Wanita;55;17213114;58;Menikah;Jakarta;Jarang;Sabtu;Cokelat
+183;Wanita;31;27049180;93;;Depok;Tidak Pernah;Selasa;Vanilla
+184;Wanita;25;23360655;34;Belum Menikah;Tangerang;Sering;Senin;BlueBerry
+185;Wanita;50;10245901;55;Menikah;Jakarta;Jarang;Sabtu;Charcoal
+186;Wanita;46;15983606;44;Menikah;Jakarta;Sedang;Rabu;Coconut
+187;Wanita;42;7786885;17;Menikah;Tangerang;Sering;Sabtu;BlueBerry
+188;Wanita;28;25000000;40;Menikah;Jakarta;Sedang;Senin;BubbleGum/Cotton Candy
+189;Wanita;45;15983606;53;Menikah;Jakarta;Jarang;Sabtu;Cokelat
+190;Pria;28;25409836;97;Menikah;Depok;Tidak Pernah;Senin;Vanilla
+191;Wanita;36;29508196;27;;Tangerang;Sering;Minggu;BubbleGum/Cotton Candy
+192;Pria;59;22950819;11;Menikah;Tangerang;Sering;Minggu;Caramel Pecan
+193;Pria;48;18852459;42;Menikah;Jakarta;Sedang;Minggu;Strawberry
+194;Pria;40;29508196;13;Menikah;Tangerang;Sering;Senin;Strawberry
+195;Pria;58;29918032;15;Menikah;Tangerang;Sering;Sabtu;Vanilla
+196;Wanita;30;29918032;86;Menikah;Depok;;Minggu;BubbleGum/Cotton Candy
+197;Wanita;60;14344262;56;Menikah;Jakarta;Jarang;Minggu;Caramel Pecan
+198;Wanita;51;21311475;43;;Jakarta;Sedang;Minggu;Cokelat
+199;Wanita;40;22131147;58;Menikah;Jakarta;Jarang;Sabtu;Charcoal
+200;Wanita;29;10245901;42;Menikah;Jakarta;Sedang;Jumat;BubbleGum/Cotton Candy
+201;Wanita;43;13524590;50;Menikah;Jakarta;Jarang;Rabu;Strawberry
+202;Wanita;34;25819672;22;Menikah;Tangerang;Sering;Jumat;Vanilla
+203;Pria;32;50000000;18;;Tangerang;Sering;Senin;Coconut
+204;Wanita;42;20491803;43;Menikah;Jakarta;Sedang;Sabtu;BlueBerry
+205;Wanita;54;5327868;14;Menikah;Tangerang;Sering;Sabtu;BlueBerry
+206;Pria;35;3688524;35;;Tangerang;Sedang;Senin;Coconut
+207;Wanita;35;1639344;99;Menikah;Depok;Tidak Pernah;Sabtu;Vanilla
+208;Wanita;19;20491803;50;Belum Menikah;Jakarta;Jarang;Senin;Mix Flavors
+209;Wanita;32;18442622;42;Menikah;Jakarta;Sedang;Senin;Caramel Pecan
+210;Pria;20;2459016;66;Belum Menikah;Depok;Jarang;Kamis;Caramel Pecan
+211;Wanita;21;6147540;73;Menikah;Depok;Jarang;Senin;BubbleGum/Cotton Candy
+212;Pria;39;22131147;91;Menikah;Depok;Tidak Pernah;Sabtu;Vanilla
+213;Wanita;23;15983606;52;Belum Menikah;Jakarta;Jarang;Senin;Caramel Pecan
+214;Pria;52;3278688;29;Menikah;Tangerang;Sering;Sabtu;Vanilla
+215;Wanita;47;19672131;50;Menikah;Jakarta;Jarang;Sabtu;Cokelat
+216;Pria;47;22950819;9;Menikah;Tangerang;Sering;Sabtu;BlueBerry
+217;Pria;52;19262295;59;Menikah;Jakarta;Jarang;Sabtu;Mix Flavors
+218;;49;15983606;42;Menikah;Jakarta;Sedang;Minggu;Charcoal
+219;Wanita;29;34016393;88;Menikah;Depok;Jarang;Selasa;Vanilla
+220;Pria;2;18032786;41;Belum Menikah;Jakarta;Sedang;Senin;Vanilla
+221;Pria;53;7377049;4;Menikah;Tangerang;Sering;Minggu;Cokelat
+222;Wanita;50;11475409;45;Menikah;Jakarta;Sedang;Minggu;Caramel Pecan
+223;Wanita;34;36065573;23;Menikah;Tangerang;Sering;Senin;Strawberry
+224;Pria;19;24180327;10;Belum Menikah;Tangerang;Sering;Selasa;BubbleGum/Cotton Candy
+225;Wanita;41;36065573;17;Menikah;Tangerang;Sering;Sabtu;Cokelat
+226;Pria;29;5327868;82;Menikah;Depok;Jarang;Senin;Strawberry
+227;Wanita;47;18442622;101;;Jakarta;Sedang;Minggu;Caramel Pecan
+228;Pria;43;13524590;51;Menikah;Jakarta;Jarang;Kamis;Coconut
+229;Wanita;23;22540983;29;Menikah;Tangerang;Sering;Selasa;Mix Flavors
+230;Pria;55;19672131;43;Menikah;Jakarta;Sedang;Minggu;BubbleGum/Cotton Candy
+231;Wanita;44;25819672;20;Menikah;Tangerang;Sering;Sabtu;
+232;Pria;18;7377049;92;Belum Menikah;Depok;Tidak Pernah;Selasa;Vanilla
+233;Wanita;31;819672;40;Menikah;Jakarta;;Minggu;Coconut
+234;Pria;20;23770491;5;Belum Menikah;Tangerang;Sering;Senin;Coconut
+235;Wanita;35;2459016;35;;Tangerang;Sering;Senin;BubbleGum/Cotton Candy
+236;;49;19262295;48;Menikah;Jakarta;Sedang;Minggu;Charcoal
+237;Pria;43;22950819;35;Menikah;Tangerang;Sedang;Selasa;Caramel Pecan
+238;Wanita;35;24180327;72;Menikah;Depok;Jarang;Senin;BlueBerry
+239;Pria;20;18852459;49;Belum Menikah;Jakarta;Sedang;Senin;BubbleGum/Cotton Candy
+240;Wanita;30;1639344;72;Menikah;Depok;Jarang;Senin;Cokelat
+241;Wanita;50;21311475;57;;Jakarta;Jarang;Sabtu;Strawberry
+242;Wanita;31;23360655;71;Menikah;Depok;Jarang;Senin;Charcoal
+243;Pria;25;3688524;73;Menikah;Depok;Jarang;Senin;Coconut
+244;Pria;42;29098360;20;Menikah;Tangerang;Sering;Minggu;Caramel Pecan
+245;Pria;34;25819672;1;Menikah;Tangerang;Sering;Senin;Vanilla
+246;Pria;38;22950819;75;Menikah;Depok;Jarang;Sabtu;Caramel Pecan
+247;Pria;19;13524590;59;Belum Menikah;Jakarta;Jarang;Senin;BubbleGum/Cotton Candy
+248;Wanita;47;13934426;42;Menikah;Jakarta;Sedang;Minggu;Vanilla
+249;Wanita;21;7377049;81;Belum Menikah;Depok;Jarang;Senin;Mix Flavors
+250;Wanita;56;26229508;35;Menikah;Jakarta;Sedang;Sabtu;Mix Flavors
+251;Pria;37;25819672;1;Menikah;Tangerang;Sering;Senin;Strawberry
+252;Pria;30;34426229;97; ;Depok;;Sabtu;Vanilla
+253;Pria;59;31967213;14;Menikah;Tangerang;Sering;Minggu;BubbleGum/Cotton Candy
+254;Pria;26;19262295;55;Menikah;Jakarta;Jarang;Rabu;Vanilla
+255;Pria;35;31967213;90;Menikah;Depok;Tidak Pernah;Selasa;Vanilla
+256;Wanita;35;3278688;98;Menikah;Depok;Tidak Pernah;Sabtu;Vanilla
+257;Wanita;36;9016393;26;Menikah;Tangerang;Sering;Sabtu;Cokelat
+258;Wanita;38;25819672;76;Menikah;Depok;Jarang;Sabtu;Strawberry
+259;Pria;28;29508196;75;Menikah;Depok;Jarang;Senin;BubbleGum/Cotton Candy
+260;Wanita;45;9426229;35;Menikah;Jakarta;Sedang;Minggu;Vanilla
+261;Pria;32;24590163;93;Menikah;Depok;Tidak Pernah;Senin;Vanilla
+262;Pria;19;20081967;46;Belum Menikah;Jakarta;Sedang;Senin;Mix Flavors
+263;Wanita;29;23770491;88;Menikah;Depok;Jarang;Senin;Vanilla
+264;Pria;58;13934426;55;Menikah;Jakarta;Jarang;Sabtu;BlueBerry
+265;Wanita;29;26229508;83;Menikah;Depok;Jarang;Senin;Charcoal
+266;Wanita;54;18032786;55;Menikah;Jakarta;Jarang;Minggu;Cokelat
+267;Wanita;30;25819672;78;Menikah;Depok;Jarang;Sabtu;BubbleGum/Cotton Candy
+268;Pria;32;29508196;63;Menikah;Jakarta;Jarang;Sabtu;BubbleGum/Cotton Candy
+269;Pria;24;18442622;52;Menikah;Jakarta;Jarang;Selasa;Mix Flavors
+270;Pria;32;45491803;74;Menikah;Depok;Jarang;Minggu;Cokelat
+271;Wanita;27;12704918;51;Menikah;Jakarta;Jarang;Senin;BlueBerry
+272;Wanita;57;24590163;5;Menikah;Tangerang;Sering;Minggu;Mix Flavors
+273;Wanita;50;17622950;46;Menikah;Jakarta;Sedang;Sabtu;Strawberry
+274;Pria;26;15983606;54;Menikah;Jakarta;Jarang;Senin;BubbleGum/Cotton Candy
+275;Wanita;36;36065573;85;Menikah;Depok;Jarang;Senin;BlueBerry
+276;Pria;43;25819672;17;Menikah;Tangerang;Sering;Senin;BubbleGum/Cotton Candy
+277;Pria;25;25409836;12;Menikah;Tangerang;Sering;Senin;Mix Flavors
+278;Wanita;30;7786885;73;Belum Menikah;Depok;Jarang;Senin;Caramel Pecan
+279;Wanita;22;17213114;55;Belum Menikah;Jakarta;Jarang;Senin;Mix Flavors
+280;Pria;32;23770491;73;Menikah;Depok;Jarang;Minggu;Strawberry
+281;Pria;50;28688524;26;;Tangerang;Sering;Minggu;BlueBerry
+282;Wanita;32;25409836;74;Menikah;Depok;Jarang;Sabtu;Charcoal
+283;Wanita;47;43032786;16;Menikah;Tangerang;Sering;Sabtu;Charcoal
+284;Wanita;23;5737704;87;Belum Menikah;Depok;Jarang;Senin;Caramel Pecan
+285;Pria;33;40163934;8;Menikah;Tangerang;Sering;Senin;Cokelat
+286;;21;;81;Belum Menikah;Depok;Jarang;Jumat;Vanilla
+287;Wanita;46;4098360;5;Menikah;Tangerang;Sering;Senin;Caramel Pecan
+288;Pria;19;;39;Belum Menikah;Jakarta;Sedang;Senin;Cokelat
+289;Pria;56;11885245;46;Menikah;Jakarta;Sedang;Sabtu;BlueBerry
+290;Pria;57;12704918;56;Menikah;Jakarta;Jarang;Minggu;Mix Flavors
+291;Wanita;52;29918032;13;;Tangerang;Sering;Sabtu;Charcoal
+292;Wanita;22;819672;76;Menikah;Depok;Jarang;Senin;Vanilla
+293;Wanita;31;22540983;77;Menikah;Depok;Jarang;Senin;BlueBerry
+294;Pria;54;19672131;46;Menikah;JJakarta;Sedang;Sabtu;Cokelat
+295;Wanita;31;9836065;61;Menikah;Jakarta;;Jumat;Cokelat
+296;Pria;31;4098360;73;Menikah;Depok;Jarang;Senin;Vanilla
+297;Pria;57;15983606;51;Menikah;Jakarta;Jarang;Minggu;BubbleGum/Cotton Candy
+298;Wanita;35;43032786;79;Menikah;Depok;Jarang;Senin;Caramel Pecan
+299;Wanita;23;1229508;94;Menikah;Depok;Tidak Pernah;Selasa;Vanilla
+300;Pria;50;1639344;14;Menikah;Tangerang;Sering;Minggu;Coconut
